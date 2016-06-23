@@ -234,6 +234,9 @@ color: #ECEBEB;
 	font-family: arvo;
 	letter-spacing: 3px;
 	font-weight: 400 !important;
+	position:relative;
+	left:-100px;
+	
 }
 
 .lead {
