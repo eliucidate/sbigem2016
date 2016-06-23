@@ -234,7 +234,11 @@ color: #ECEBEB;
 	font-family: arvo;
 	letter-spacing: 3px;
 	font-weight: 400 !important;
+<<<<<<< HEAD
 	position:fixed;
+=======
+	position:relative;
+>>>>>>> df841cc582a995c5db8b37db514767953592fae1
 	left:-100px;
 	
 }
